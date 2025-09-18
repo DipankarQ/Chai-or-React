@@ -1,2 +1,2 @@
 test.
-test-case 
+test-case.
